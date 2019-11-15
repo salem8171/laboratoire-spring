@@ -59,7 +59,6 @@ public class Evenement implements Serializable {
 	}
 	public Evenement() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 	public Evenement(String nom, Date dateEVT, String lieu) {
 		super();

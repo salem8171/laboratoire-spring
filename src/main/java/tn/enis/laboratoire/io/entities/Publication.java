@@ -71,8 +71,5 @@ public class Publication implements Serializable {
 	}
 	public Publication() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
-	
-
 }

@@ -1,18 +1,11 @@
 package tn.enis.laboratoire;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Date;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import tn.enis.laboratoire.io.dao.RoleRepository;
-import tn.enis.laboratoire.io.entities.EnseignantChercheur;
-import tn.enis.laboratoire.io.entities.Etudiant;
-import tn.enis.laboratoire.io.entities.Role;
 import tn.enis.laboratoire.service.IMemberService;
 
 @SpringBootApplication

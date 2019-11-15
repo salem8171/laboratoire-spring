@@ -136,7 +136,6 @@ public abstract class Membre implements Serializable {
 	}
 	public Membre() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 	public Membre(String cin, String nom, String prenom, Date dateNaissance, String cv, byte[] photo, String email,
 			String password) {

@@ -64,9 +64,5 @@ public class Outil implements Serializable {
 	}
 	public Outil() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
-	
-	
-
 }

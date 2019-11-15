@@ -1,6 +1,5 @@
 package tn.enis.laboratoire.controller;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,7 +13,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import tn.enis.laboratoire.io.entities.EnseignantChercheur;
-import tn.enis.laboratoire.io.entities.Etudiant;
 import tn.enis.laboratoire.io.entities.Membre;
 import tn.enis.laboratoire.service.IMemberService;
 

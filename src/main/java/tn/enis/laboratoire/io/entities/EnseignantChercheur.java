@@ -27,12 +27,10 @@ public class EnseignantChercheur extends Membre implements Serializable{
 	}
 	public EnseignantChercheur() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 	public EnseignantChercheur(String cin, String nom, String prenom, Date dateNaissance, String cv, byte[] photo,
 			String email, String password) {
 		super(cin, nom, prenom, dateNaissance, cv, photo, email, password);
-		// TODO Auto-generated constructor stub
 	}
 	
 
